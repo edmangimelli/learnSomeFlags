@@ -1,2 +1,2 @@
 # learnSomeFlags
-A simple game I made when I was learning DOM manipulation.
+A simple javascript game I made when I was learning DOM manipulation.
